@@ -1,3 +1,6 @@
+![alt text](https://github.com/jusplo/To-do-list/blob/master/zrzut%20ekranu.png)
+
+
 Setup
 
 You'll need to get your connection strings from Firebase. Place a file called config.js in src/Config/ that contains your Firebase config as a simple javascript object, exported as DB_CONFIG. For example,
